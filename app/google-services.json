@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416196658996",
+    "project_id": "crudjetpackcompose-57b1c",
+    "storage_bucket": "crudjetpackcompose-57b1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416196658996:android:58e7044ca19fd9eee20761",
+        "android_client_info": {
+          "package_name": "com.example.crudjetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlvquVNOH_Zpu4vn3w123NvHEjasoSTGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
